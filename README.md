@@ -7,8 +7,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/0691eca4-1271-43c6-809c-f23e88453e93
-" alt="Fortinet" height="80">
+        <img src="https://github.com/user-attachments/assets/0691eca4-1271-43c6-809c-f23e88453e93" alt="Fortinet" height="80">
         <p>Fortinet</p>
       </td>
       <td align="center">
