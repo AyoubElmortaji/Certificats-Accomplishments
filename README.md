@@ -1,4 +1,4 @@
-<div align="center" style="background-color: #f9f9f9; padding: 20px;">
+<div align="center" style="background-color: white; padding: 20px;">
   <h1>My Certifications</h1>
   <p>Welcome to my GitHub repository! Below is a showcase of the certifications I've obtained from various prestigious platforms and organizations in the field of cybersecurity, cloud computing, networking, and more.</p>
 </div>
