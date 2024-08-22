@@ -11,11 +11,11 @@
         <p>Fortinet</p>
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Juniper_Networks_logo.svg/2560px-Juniper_Networks_logo.svg.png" alt="Juniper Networks" height="80">
+        <img src="https://github.com/user-attachments/assets/6cbdde48-f39f-4c70-91db-ba078e253444" alt="Juniper Networks" height="80">
         <p>Juniper Networks</p>
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Palo_Alto_Networks_logo.svg/2560px-Palo_Alto_Networks_logo.svg.png" alt="Palo Alto Networks" height="80">
+        <img src="https://github.com/user-attachments/assets/7c46819c-131d-4edf-a45c-ae2c84dbffc9" alt="Palo Alto Networks" height="80">
         <p>Palo Alto Networks</p>
       </td>
     </tr>
@@ -25,39 +25,39 @@
         <p>IBM</p>
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Cisco_logo_blue_2016.svg/2560px-Cisco_logo_blue_2016.svg.png" alt="Cisco" height="80">
+        <img src="https://github.com/user-attachments/assets/3414ab25-1d17-4225-ae2e-82bfdfbcb497" alt="Cisco" height="80">
         <p>Cisco</p>
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Huawei_Standard_logo.svg/2560px-Huawei_Standard_logo.svg.png" alt="Huawei" height="80">
+        <img src="(https://github.com/user-attachments/assets/6cb54271-c6e8-4580-a229-fba075fe22ce" alt="Huawei" height="80">
         <p>Huawei</p>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Coursera_logo.svg/2560px-Coursera_logo.svg.png" alt="Coursera" height="80">
+        <img src="https://github.com/user-attachments/assets/111f7a0a-4a5d-4ab2-b06f-71becffc8f2c" alt="Coursera" height="80">
         <p>Coursera</p>
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Udemy_logo.svg/2560px-Udemy_logo.svg.png" alt="Udemy" height="80">
+        <img src="https://github.com/user-attachments/assets/dc6e3e97-0324-4f00-a880-7ab09a2b56b3" alt="Udemy" height="80">
         <p>Udemy</p>
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Saylor_Academy_Logo_2021.svg/2560px-Saylor_Academy_Logo_2021.svg.png" alt="Saylor Academy" height="80">
+        <img src="https://github.com/user-attachments/assets/542a96b1-1318-4259-ba76-dfd2f9b778be" alt="Saylor Academy" height="80">
         <p>Saylor Academy</p>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/OpenClassrooms_Logo.svg/2560px-OpenClassrooms_Logo.svg.png" alt="OpenClassrooms" height="80">
+        <img src="https://github.com/user-attachments/assets/81fc3dff-84de-435c-97f4-bd84c4d407fb" alt="OpenClassrooms" height="80">
         <p>OpenClassrooms</p>
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Linux_Foundation_logo.svg/2560px-Linux_Foundation_logo.svg.png" alt="The Linux Foundation" height="80">
+        <img src="https://github.com/user-attachments/assets/db8f49e8-65bf-4054-a7ca-2842c923275a" alt="The Linux Foundation" height="80">
         <p>The Linux Foundation</p>
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/VMware_logo.svg/2560px-VMware_logo.svg.png" alt="VMware" height="80">
+        <img src="https://github.com/user-attachments/assets/0b1707ea-4473-4df7-8ce9-4802c2a385c5" alt="VMware" height="80">
         <p>VMware</p>
       </td>
     </tr>
